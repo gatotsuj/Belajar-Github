@@ -3,3 +3,5 @@ Target Belajar
 2.Android Java
 3.Android Kotlin
 4.React Js
+5.Django
+7.Laravel
